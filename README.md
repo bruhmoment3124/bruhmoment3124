@@ -10,6 +10,10 @@ These were the first programs I ever wrote. I would sit down almost every day an
 
 This was the first real project I began. I wrote it with the GLFW library. There are a number of things I would do differently now.
 
+### [bignums](https://github.com/bruhmoment3124/bignums)
+
+An arbitrary precision arithmetic library. Calculated square roots to 500 digits, and inspired bignumlang.
+
 ### [ALLEN-CPU](https://github.com/bruhmoment3124/ALLEN-CPU)
 
 My first real foray into computer architecure. I submitted this as a project to the Maine App Challenge.
