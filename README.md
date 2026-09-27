@@ -29,3 +29,7 @@ A fully fledged graphical programming language meant to teach programming. It in
 ### [bignumlang](https://github.com/bruhmoment3124/bignumlang)
 
 An unfinished project that was originally intended to be a programming language that supported arbitrary precision arithmetic. This was the point where I realized I needed to organize my projects better, and adhere to best practices. I got to the generation of bytecode (having implemented parsing and panic-mode error recovery) but the complexity grew to great.
+
+### **miscellaneous**
+[raylib](https://github.com/bruhmoment3124/raylib)
+[gameboy](https://github.com/bruhmoment3124/gameboy)
